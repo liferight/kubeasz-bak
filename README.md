@@ -50,8 +50,6 @@
 
 ## 版权
 
-Copyright 2017 gjmzj (jmgaozz@163.com)
-
 Apache License 2.0，详情见 [LICENSE](LICENSE) 文件。
 
 如果觉得这份文档对你有帮助，请支付宝扫描下方的二维码进行捐赠，谢谢！
